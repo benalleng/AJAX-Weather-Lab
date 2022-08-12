@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+/*
+body {
+    display: grid;
+    grid-template-columns: repeat(1fr, 5) ;
+    grid-template-rows: repeat(1fr, 5) ;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+    main { 
+        background-color: #A07EF7;
+        grid-area: 2 / 2 / 5 / 5 ; 
+    }
+    header { 
+        background-color: #E7DFFD;
+        grid-area: 1 / 1 / 2 / 6 ; }
+    footer { 
+        background-color: #E7DFFD;
+        grid-area: 5 / 1 / 6 / 6 ; 
+    }  */
